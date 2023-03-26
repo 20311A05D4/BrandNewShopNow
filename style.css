@@ -257,6 +257,14 @@ h1{
 #beauty{
   background-color: #2C3333;
 }
+.video1 video{
+  width:100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:center;
+
+
+}
 
 /* account */
 #account{
